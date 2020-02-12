@@ -1,0 +1,2 @@
+Este é o arquivo 1 no estado alterado.
+Terceiro commit.
